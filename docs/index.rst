@@ -1,9 +1,14 @@
 trendmicro.com/install | Trend Micro Activate and Install Already Purchased in Your Device
 ===========================================================================================
 
-With the constant rise in cyber threats, securing your digital life is no longer optional—it’s essential. If you've already purchased a Trend Micro security product, you’re on the right track. The next step is straightforward: **Install Trend Micro Already Purchased** using the official installation platform, `trendmicro.com/install <https://www.trendmicro.com/install>`_.
+With the constant rise in cyber threats, securing your digital life is no longer optional—it’s essential. If you've already purchased a Trend Micro security product, you’re on the right track. The next step is straightforward: **Install Trend Micro Already Purchased** using the official installation platform, trendmicro.com/install.
 
-In this guide, we’ll walk you through the full process to **Install Trend Micro Already Purchased**, how to activate your license, and how to troubleshoot common issues—all from the trusted portal: **trendmicro.com/install**. Whether you're a tech-savvy user or a beginner, you'll be able to protect your device efficiently by following this step-by-step walkthrough.
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-trendmicro.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Trendmicro</a>
+   </div>
+In this guide, we’ll walk you through the full process to **Install Trend Micro Already Purchased**, how to activate your license, and how to troubleshoot common issues—all from the trusted portal: trendmicro.com/install. Whether you're a tech-savvy user or a beginner, you'll be able to protect your device efficiently by following this step-by-step walkthrough.
 
 Let’s begin by understanding why using the **trendmicro.com/install** site is the most secure and efficient method to activate your existing Trend Micro subscription.
 
